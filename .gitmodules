@@ -142,3 +142,6 @@
 [submodule "vendor/src/django-banish"]
 	path = vendor/src/django-banish
 	url = git://github.com/yourabi/django-banish.git
+[submodule "vendor/src/django-taggit"]
+	path = vendor/src/django-taggit
+	url = git://github.com/alex/django-taggit.git
